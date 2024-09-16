@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fuesr.github.io/LqR/sitemap.LqR.gz
